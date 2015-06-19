@@ -180,3 +180,5 @@ NgrokPow will create another symlink of your server folder with a unique name an
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+small change
